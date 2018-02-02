@@ -1,0 +1,267 @@
+[D 11:20:19.190 NotebookApp] Searching [u'/Users/ozanpekmezci/Documents/ml/machine-learning/projects/finding_donors', '/Users/ozanpekmezci/.jupyter', '/Users/ozanpekmezci/anaconda/etc/jupyter', '/usr/local/etc/jupyter', '/etc/jupyter'] for config files
+[D 11:20:19.191 NotebookApp] Looking for jupyter_config in /etc/jupyter
+[D 11:20:19.193 NotebookApp] Looking for jupyter_config in /usr/local/etc/jupyter
+[D 11:20:19.194 NotebookApp] Looking for jupyter_config in /Users/ozanpekmezci/anaconda/etc/jupyter
+[D 11:20:19.194 NotebookApp] Looking for jupyter_config in /Users/ozanpekmezci/.jupyter
+[D 11:20:19.196 NotebookApp] Looking for jupyter_config in /Users/ozanpekmezci/Documents/ml/machine-learning/projects/finding_donors
+[D 11:20:19.197 NotebookApp] Looking for jupyter_notebook_config in /etc/jupyter
+[D 11:20:19.197 NotebookApp] Looking for jupyter_notebook_config in /usr/local/etc/jupyter
+[D 11:20:19.198 NotebookApp] Looking for jupyter_notebook_config in /Users/ozanpekmezci/anaconda/etc/jupyter
+[D 11:20:19.198 NotebookApp] Looking for jupyter_notebook_config in /Users/ozanpekmezci/.jupyter
+[D 11:20:19.198 NotebookApp] Looking for jupyter_notebook_config in /Users/ozanpekmezci/Documents/ml/machine-learning/projects/finding_donors
+[I 11:20:19.723 NotebookApp] Serving notebooks from local directory: /Users/ozanpekmezci/Documents/ml/machine-learning/projects/finding_donors
+[I 11:20:19.724 NotebookApp] 0 active kernels 
+[I 11:20:19.724 NotebookApp] The Jupyter Notebook is running at: http://localhost:8888/?token=1b18c3cd4aeee66ec4e5695319d577aaf7b15cae5568a916
+[I 11:20:19.724 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 11:20:19.724 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=1b18c3cd4aeee66ec4e5695319d577aaf7b15cae5568a916
+[I 11:20:19.877 NotebookApp] Accepting one-time-token-authenticated connection from ::1
+[D 11:20:19.880 NotebookApp] Using contents: services/contents
+[D 11:20:19.926 NotebookApp] Path base/images/favicon.ico served from /Users/ozanpekmezci/anaconda/lib/python2.7/site-packages/notebook/static/base/images/favicon.ico
+[D 11:20:19.929 NotebookApp] Path components/jquery-ui/themes/smoothness/jquery-ui.min.css served from /Users/ozanpekmezci/anaconda/lib/python2.7/site-packages/notebook/static/components/jquery-ui/themes/smoothness/jquery-ui.min.css
+[D 11:20:19.931 NotebookApp] Path components/jquery-typeahead/dist/jquery.typeahead.min.css served from /Users/ozanpekmezci/anaconda/lib/python2.7/site-packages/notebook/static/components/jquery-typeahead/dist/jquery.typeahead.min.css
+[D 11:20:19.934 NotebookApp] Path style/style.min.css served from /Users/ozanpekmezci/anaconda/lib/python2.7/site-packages/notebook/static/style/style.min.css
+[D 11:20:19.937 NotebookApp] Path components/es6-promise/promise.min.js served from /Users/ozanpekmezci/anaconda/lib/python2.7/site-packages/notebook/static/components/es6-promise/promise.min.js
+[D 11:20:19.938 NotebookApp] Path components/requirejs/require.js served from /Users/ozanpekmezci/anaconda/lib/python2.7/site-packages/notebook/static/components/requirejs/require.js
+[D 11:20:19.940 NotebookApp] Path base/images/logo.png served from /Users/ozanpekmezci/anaconda/lib/python2.7/site-packages/notebook/static/base/images/logo.png
+[D 11:20:19.941 NotebookApp] Path tree/js/main.min.js served from /Users/ozanpekmezci/anaconda/lib/python2.7/site-packages/notebook/static/tree/js/main.min.js
+[D 11:20:19.947 NotebookApp] 200 GET /tree?token=d9cd2610fc0f743e8b2d7633716731457afb4def277ac33f (::1) 71.23ms
+[D 11:20:19.998 NotebookApp] Path custom.css served from /Users/ozanpekmezci/anaconda/lib/python2.7/site-packages/notebook/static/custom/custom.css
+[D 11:20:20.001 NotebookApp] 304 GET /custom/custom.css (::1) 4.35ms
+[D 11:20:20.011 NotebookApp] 200 GET /static/tree/js/main.min.js?v=1fc66f191e0c7e71da3e03dc01d328d5 (::1) 6.76ms
+[D 11:20:20.608 NotebookApp] Path services/contents.js served from /Users/ozanpekmezci/anaconda/lib/python2.7/site-packages/notebook/static/services/contents.js
+[D 11:20:20.609 NotebookApp] 200 GET /static/services/contents.js?v=20171127112019 (::1) 3.72ms
+[D 11:20:20.612 NotebookApp] Path custom.js served from /Users/ozanpekmezci/anaconda/lib/python2.7/site-packages/notebook/static/custom/custom.js
+[D 11:20:20.613 NotebookApp] 200 GET /custom/custom.js?v=20171127112019 (::1) 1.38ms
+[D 11:20:20.654 NotebookApp] 200 GET /api/config/tree?_=1511778020507 (::1) 2.38ms
+[D 11:20:20.656 NotebookApp] 200 GET /api/config/common?_=1511778020508 (::1) 2.20ms
+[D 11:20:20.659 NotebookApp] 200 GET /api/terminals?_=1511778020509 (::1) 0.69ms
+[D 11:20:20.668 NotebookApp] Native kernel (python2) available from /Users/ozanpekmezci/anaconda/lib/python2.7/site-packages/ipykernel/resources
+[D 11:20:20.668 NotebookApp] Native kernel (python2) available from /Users/ozanpekmezci/anaconda/lib/python2.7/site-packages/ipykernel/resources
+[D 11:20:20.670 NotebookApp] 304 GET /api/kernelspecs (::1) 8.64ms
+[D 11:20:20.671 NotebookApp] 200 GET /api/terminals?_=1511778020511 (::1) 0.70ms
+[D 11:20:20.673 NotebookApp] 200 GET /api/sessions?_=1511778020510 (::1) 1.32ms
+[D 11:20:20.773 NotebookApp] 200 GET /api/contents?type=directory&_=1511778020512 (::1) 4.31ms
+[D 11:20:21.999 NotebookApp] Initializing websocket connection /api/kernels/4e5514a1-0fb2-48e1-a8ce-63a342909b80/channels
+[W 11:20:22.014 NotebookApp] 404 GET /api/kernels/4e5514a1-0fb2-48e1-a8ce-63a342909b80/channels?session_id=FDF00C14299E4C06AEAD65FFF37283B8 (::1): Kernel does not exist: 4e5514a1-0fb2-48e1-a8ce-63a342909b80
+[D 11:20:22.014 NotebookApp] Using contents: services/contents
+[W 11:20:22.022 NotebookApp] 404 GET /api/kernels/4e5514a1-0fb2-48e1-a8ce-63a342909b80/channels?session_id=FDF00C14299E4C06AEAD65FFF37283B8 (::1) 23.35ms referer=None
+[D 11:20:24.460 NotebookApp] Using contents: services/contents
+[D 11:20:24.488 NotebookApp] Path components/bootstrap-tour/build/css/bootstrap-tour.min.css served from /Users/ozanpekmezci/anaconda/lib/python2.7/site-packages/notebook/static/components/bootstrap-tour/build/css/bootstrap-tour.min.css
+[D 11:20:24.490 NotebookApp] Path components/codemirror/lib/codemirror.css served from /Users/ozanpekmezci/anaconda/lib/python2.7/site-packages/notebook/static/components/codemirror/lib/codemirror.css
+[D 11:20:24.490 NotebookApp] Path notebook/css/override.css served from /Users/ozanpekmezci/anaconda/lib/python2.7/site-packages/notebook/static/notebook/css/override.css
+[D 11:20:24.491 NotebookApp] Path components/text-encoding/lib/encoding.js served from /Users/ozanpekmezci/anaconda/lib/python2.7/site-packages/notebook/static/components/text-encoding/lib/encoding.js
+[D 11:20:24.492 NotebookApp] Path notebook/js/main.min.js served from /Users/ozanpekmezci/anaconda/lib/python2.7/site-packages/notebook/static/notebook/js/main.min.js
+[D 11:20:24.501 NotebookApp] 200 GET /notebooks/finding_donors.ipynb (::1) 41.43ms
+[D 11:20:24.516 NotebookApp] Path components/MathJax/MathJax.js served from /Users/ozanpekmezci/anaconda/lib/python2.7/site-packages/notebook/static/components/MathJax/MathJax.js
+[D 11:20:24.517 NotebookApp] 304 GET /static/components/MathJax/MathJax.js?config=TeX-AMS_HTML-full,Safe&delayStartupUntil=configured (::1) 2.33ms
+[D 11:20:24.518 NotebookApp] 304 GET /custom/custom.css (::1) 0.79ms
+[D 11:20:24.715 NotebookApp] Path components/MathJax/config/TeX-AMS_HTML-full.js served from /Users/ozanpekmezci/anaconda/lib/python2.7/site-packages/notebook/static/components/MathJax/config/TeX-AMS_HTML-full.js
+[D 11:20:24.715 NotebookApp] 304 GET /static/components/MathJax/config/TeX-AMS_HTML-full.js?rev=2.6.0 (::1) 2.96ms
+[D 11:20:24.742 NotebookApp] Path components/MathJax/config/Safe.js served from /Users/ozanpekmezci/anaconda/lib/python2.7/site-packages/notebook/static/components/MathJax/config/Safe.js
+[D 11:20:24.743 NotebookApp] 304 GET /static/components/MathJax/config/Safe.js?rev=2.6.0 (::1) 1.52ms
+[D 11:20:24.925 NotebookApp] 304 GET /custom/custom.js?v=20171127112019 (::1) 0.75ms
+[D 11:20:24.940 NotebookApp] 200 GET /api/config/notebook?_=1511778024809 (::1) 2.91ms
+[D 11:20:24.944 NotebookApp] 200 GET /api/config/common?_=1511778024810 (::1) 3.32ms
+[D 11:20:25.004 NotebookApp] Native kernel (python2) available from /Users/ozanpekmezci/anaconda/lib/python2.7/site-packages/ipykernel/resources
+[D 11:20:25.004 NotebookApp] Native kernel (python2) available from /Users/ozanpekmezci/anaconda/lib/python2.7/site-packages/ipykernel/resources
+[D 11:20:25.005 NotebookApp] 304 GET /api/kernelspecs (::1) 1.63ms
+[D 11:20:25.107 NotebookApp] 200 GET /api/contents/finding_donors.ipynb?type=notebook&_=1511778024811 (::1) 76.04ms
+[D 11:20:25.109 NotebookApp] Path components/MathJax/extensions/Safe.js served from /Users/ozanpekmezci/anaconda/lib/python2.7/site-packages/notebook/static/components/MathJax/extensions/Safe.js
+[D 11:20:25.109 NotebookApp] 304 GET /static/components/MathJax/extensions/Safe.js?rev=2.6.0 (::1) 1.72ms
+[D 11:20:25.111 NotebookApp] Path jupyter-js-widgets/extension.js served from /Users/ozanpekmezci/anaconda/share/jupyter/nbextensions/jupyter-js-widgets/extension.js
+[D 11:20:25.116 NotebookApp] Path components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/fontdata.js served from /Users/ozanpekmezci/anaconda/lib/python2.7/site-packages/notebook/static/components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/fontdata.js
+[D 11:20:25.117 NotebookApp] 304 GET /static/components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/fontdata.js?rev=2.6.0 (::1) 2.29ms
+[D 11:20:26.899 NotebookApp] Native kernel (python2) available from /Users/ozanpekmezci/anaconda/lib/python2.7/site-packages/ipykernel/resources
+[D 11:20:26.899 NotebookApp] Starting kernel: ['/Users/ozanpekmezci/anaconda/bin/python', '-m', 'ipykernel', '-f', u'/Users/ozanpekmezci/Library/Jupyter/runtime/kernel-c519199d-ed2e-4eaa-8578-c16abe37becc.json']
+[D 11:20:26.905 NotebookApp] Connecting to: tcp://127.0.0.1:53493
+[I 11:20:26.906 NotebookApp] Kernel started: c519199d-ed2e-4eaa-8578-c16abe37becc
+[D 11:20:26.906 NotebookApp] Kernel args: {'kernel_name': u'python2', 'cwd': u'/Users/ozanpekmezci/Documents/ml/machine-learning/projects/finding_donors'}
+[D 11:20:26.907 NotebookApp] 201 POST /api/sessions (::1) 37.55ms
+[D 11:20:26.910 NotebookApp] 200 GET /api/contents/finding_donors.ipynb/checkpoints?_=1511778024812 (::1) 2.02ms
+[D 11:20:27.355 NotebookApp] Initializing websocket connection /api/kernels/c519199d-ed2e-4eaa-8578-c16abe37becc/channels
+[D 11:20:27.358 NotebookApp] Requesting kernel info from c519199d-ed2e-4eaa-8578-c16abe37becc
+[D 11:20:27.358 NotebookApp] Connecting to: tcp://127.0.0.1:53490
+[D 11:20:27.443 NotebookApp] 200 GET /nbextensions/jupyter-js-widgets/extension.js?v=20171127112019 (::1) 2332.71ms
+[D 11:20:27.600 NotebookApp] Path components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Main/Italic/Main.js served from /Users/ozanpekmezci/anaconda/lib/python2.7/site-packages/notebook/static/components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Main/Italic/Main.js
+[D 11:20:27.601 NotebookApp] 304 GET /static/components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Main/Italic/Main.js?rev=2.6.0 (::1) 2.43ms
+[D 11:20:27.981 NotebookApp] Received kernel info: {u'status': u'ok', u'language_info': {u'mimetype': u'text/x-python', u'nbconvert_exporter': u'python', u'name': u'python', u'pygments_lexer': u'ipython2', u'version': u'2.7.13', u'file_extension': u'.py', u'codemirror_mode': {u'version': 2, u'name': u'ipython'}}, u'implementation': u'ipython', u'implementation_version': u'5.1.0', u'protocol_version': u'5.0', u'banner': u'Python 2.7.13 |Anaconda custom (64-bit)| (default, Dec 20 2016, 23:05:08) \nType "copyright", "credits" or "license" for more information.\n\nIPython 5.1.0 -- An enhanced Interactive Python.\n?         -> Introduction and overview of IPython\'s features.\n%quickref -> Quick reference.\nhelp      -> Python\'s own help system.\nobject?   -> Details about \'object\', use \'object??\' for extra details.\n', u'help_links': [{u'url': u'http://docs.python.org/2.7', u'text': u'Python'}, {u'url': u'http://ipython.org/documentation.html', u'text': u'IPython'}, {u'url': u'http://docs.scipy.org/doc/numpy/reference/', u'text': u'NumPy'}, {u'url': u'http://docs.scipy.org/doc/scipy/reference/', u'text': u'SciPy'}, {u'url': u'http://matplotlib.org/contents.html', u'text': u'Matplotlib'}, {u'url': u'http://docs.sympy.org/latest/index.html', u'text': u'SymPy'}, {u'url': u'http://pandas.pydata.org/pandas-docs/stable/', u'text': u'pandas'}]}
+[D 11:20:27.982 NotebookApp] Opening websocket /api/kernels/c519199d-ed2e-4eaa-8578-c16abe37becc/channels
+[D 11:20:27.982 NotebookApp] Connecting to: tcp://127.0.0.1:53490
+[D 11:20:27.982 NotebookApp] Connecting to: tcp://127.0.0.1:53491
+[D 11:20:27.983 NotebookApp] Connecting to: tcp://127.0.0.1:53492
+[D 11:20:27.993 NotebookApp] Initializing websocket connection /api/kernels/4e5514a1-0fb2-48e1-a8ce-63a342909b80/channels
+[W 11:20:27.995 NotebookApp] Replacing stale connection: 4e5514a1-0fb2-48e1-a8ce-63a342909b80:FDF00C14299E4C06AEAD65FFF37283B8
+[D 11:20:28.209 NotebookApp] Path components/MathJax/fonts/HTML-CSS/STIX-Web/woff/STIXMathJax_Main-Italic.woff served from /Users/ozanpekmezci/anaconda/lib/python2.7/site-packages/notebook/static/components/MathJax/fonts/HTML-CSS/STIX-Web/woff/STIXMathJax_Main-Italic.woff
+[D 11:20:28.210 NotebookApp] 304 GET /static/components/MathJax/fonts/HTML-CSS/STIX-Web/woff/STIXMathJax_Main-Italic.woff?rev=2.6.0 (::1) 2.33ms
+[D 11:20:28.519 NotebookApp] Path components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Main/Regular/Main.js served from /Users/ozanpekmezci/anaconda/lib/python2.7/site-packages/notebook/static/components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Main/Regular/Main.js
+[D 11:20:28.520 NotebookApp] 304 GET /static/components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Main/Regular/Main.js?rev=2.6.0 (::1) 1.29ms
+[D 11:20:28.930 NotebookApp] Path components/MathJax/fonts/HTML-CSS/STIX-Web/woff/STIXMathJax_Main-Regular.woff served from /Users/ozanpekmezci/anaconda/lib/python2.7/site-packages/notebook/static/components/MathJax/fonts/HTML-CSS/STIX-Web/woff/STIXMathJax_Main-Regular.woff
+[D 11:20:28.931 NotebookApp] 304 GET /static/components/MathJax/fonts/HTML-CSS/STIX-Web/woff/STIXMathJax_Main-Regular.woff?rev=2.6.0 (::1) 2.57ms
+[D 11:20:29.261 NotebookApp] Path components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Size1/Regular/Main.js served from /Users/ozanpekmezci/anaconda/lib/python2.7/site-packages/notebook/static/components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Size1/Regular/Main.js
+[D 11:20:29.261 NotebookApp] 304 GET /static/components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Size1/Regular/Main.js?rev=2.6.0 (::1) 1.65ms
+[D 11:20:29.682 NotebookApp] Path components/MathJax/fonts/HTML-CSS/STIX-Web/woff/STIXMathJax_Size1-Regular.woff served from /Users/ozanpekmezci/anaconda/lib/python2.7/site-packages/notebook/static/components/MathJax/fonts/HTML-CSS/STIX-Web/woff/STIXMathJax_Size1-Regular.woff
+[D 11:20:29.683 NotebookApp] 304 GET /static/components/MathJax/fonts/HTML-CSS/STIX-Web/woff/STIXMathJax_Size1-Regular.woff?rev=2.6.0 (::1) 3.93ms
+[D 11:22:26.883 NotebookApp] 200 GET /api/contents/finding_donors.ipynb?content=0&_=1511778024813 (::1) 1.77ms
+[I 11:22:26.894 NotebookApp] Saving file at /finding_donors.ipynb
+[D 11:22:26.894 NotebookApp] Saving /Users/ozanpekmezci/Documents/ml/machine-learning/projects/finding_donors/finding_donors.ipynb
+[D 11:22:26.982 NotebookApp] 200 PUT /api/contents/finding_donors.ipynb (::1) 90.08ms
+[D 11:22:28.440 NotebookApp] 200 GET /api/sessions?_=1511778020513 (::1) 1.52ms
+[D 11:22:28.443 NotebookApp] 200 GET /api/terminals?_=1511778020514 (::1) 1.42ms
+[D 11:22:28.452 NotebookApp] 200 GET /api/contents?type=directory&_=1511778020515 (::1) 3.57ms
+[I 11:24:00.133 NotebookApp] Kernel interrupted: c519199d-ed2e-4eaa-8578-c16abe37becc
+[D 11:24:00.135 NotebookApp] 204 POST /api/kernels/c519199d-ed2e-4eaa-8578-c16abe37becc/interrupt (::1) 3.04ms
+[I 11:24:15.755 NotebookApp] Kernel interrupted: c519199d-ed2e-4eaa-8578-c16abe37becc
+[D 11:24:15.757 NotebookApp] 204 POST /api/kernels/c519199d-ed2e-4eaa-8578-c16abe37becc/interrupt (::1) 3.99ms
+[D 11:24:26.874 NotebookApp] 200 GET /api/contents/finding_donors.ipynb?content=0&_=1511778024814 (::1) 1.26ms
+[I 11:24:26.887 NotebookApp] Saving file at /finding_donors.ipynb
+[D 11:24:26.887 NotebookApp] Saving /Users/ozanpekmezci/Documents/ml/machine-learning/projects/finding_donors/finding_donors.ipynb
+[D 11:24:26.968 NotebookApp] 200 PUT /api/contents/finding_donors.ipynb (::1) 84.38ms
+[D 11:24:27.820 NotebookApp] Websocket closed 4e5514a1-0fb2-48e1-a8ce-63a342909b80:FDF00C14299E4C06AEAD65FFF37283B8
+[D 11:24:36.514 NotebookApp] Initializing websocket connection /api/kernels/4e5514a1-0fb2-48e1-a8ce-63a342909b80/channels
+[W 11:24:36.517 NotebookApp] Replacing stale connection: 4e5514a1-0fb2-48e1-a8ce-63a342909b80:FDF00C14299E4C06AEAD65FFF37283B8
+[I 11:25:16.672 NotebookApp] Kernel interrupted: c519199d-ed2e-4eaa-8578-c16abe37becc
+[D 11:25:16.673 NotebookApp] 204 POST /api/kernels/c519199d-ed2e-4eaa-8578-c16abe37becc/interrupt (::1) 1.69ms
+[I 11:25:25.943 NotebookApp] Kernel interrupted: c519199d-ed2e-4eaa-8578-c16abe37becc
+[D 11:25:25.944 NotebookApp] 204 POST /api/kernels/c519199d-ed2e-4eaa-8578-c16abe37becc/interrupt (::1) 1.47ms
+[D 11:26:26.872 NotebookApp] 200 GET /api/contents/finding_donors.ipynb?content=0&_=1511778024815 (::1) 1.17ms
+[I 11:26:26.882 NotebookApp] Saving file at /finding_donors.ipynb
+[D 11:26:26.882 NotebookApp] Saving /Users/ozanpekmezci/Documents/ml/machine-learning/projects/finding_donors/finding_donors.ipynb
+[D 11:26:26.962 NotebookApp] 200 PUT /api/contents/finding_donors.ipynb (::1) 82.45ms
+[D 11:28:36.506 NotebookApp] Websocket closed 4e5514a1-0fb2-48e1-a8ce-63a342909b80:FDF00C14299E4C06AEAD65FFF37283B8
+[D 11:28:55.695 NotebookApp] Initializing websocket connection /api/kernels/4e5514a1-0fb2-48e1-a8ce-63a342909b80/channels
+[W 11:28:55.697 NotebookApp] Replacing stale connection: 4e5514a1-0fb2-48e1-a8ce-63a342909b80:FDF00C14299E4C06AEAD65FFF37283B8
+[D 11:32:55.686 NotebookApp] Websocket closed 4e5514a1-0fb2-48e1-a8ce-63a342909b80:FDF00C14299E4C06AEAD65FFF37283B8
+[D 11:33:29.065 NotebookApp] Initializing websocket connection /api/kernels/4e5514a1-0fb2-48e1-a8ce-63a342909b80/channels
+[W 11:33:29.068 NotebookApp] Replacing stale connection: 4e5514a1-0fb2-48e1-a8ce-63a342909b80:FDF00C14299E4C06AEAD65FFF37283B8
+[D 11:37:29.057 NotebookApp] Websocket closed 4e5514a1-0fb2-48e1-a8ce-63a342909b80:FDF00C14299E4C06AEAD65FFF37283B8
+[D 11:38:26.862 NotebookApp] 200 GET /api/contents/finding_donors.ipynb?content=0&_=1511778024816 (::1) 4.74ms
+[I 11:38:26.873 NotebookApp] Saving file at /finding_donors.ipynb
+[D 11:38:26.873 NotebookApp] Saving /Users/ozanpekmezci/Documents/ml/machine-learning/projects/finding_donors/finding_donors.ipynb
+[D 11:38:26.955 NotebookApp] 200 PUT /api/contents/finding_donors.ipynb (::1) 83.91ms
+[D 11:38:33.485 NotebookApp] Initializing websocket connection /api/kernels/4e5514a1-0fb2-48e1-a8ce-63a342909b80/channels
+[W 11:38:33.487 NotebookApp] Replacing stale connection: 4e5514a1-0fb2-48e1-a8ce-63a342909b80:FDF00C14299E4C06AEAD65FFF37283B8
+[D 11:39:55.299 NotebookApp] Websocket closed 4e5514a1-0fb2-48e1-a8ce-63a342909b80:FDF00C14299E4C06AEAD65FFF37283B8
+[D 11:40:27.487 NotebookApp] 200 GET /api/contents/finding_donors.ipynb?content=0&_=1511778024817 (::1) 1.24ms
+[I 11:40:27.498 NotebookApp] Saving file at /finding_donors.ipynb
+[D 11:40:27.498 NotebookApp] Saving /Users/ozanpekmezci/Documents/ml/machine-learning/projects/finding_donors/finding_donors.ipynb
+[D 11:40:27.589 NotebookApp] 200 PUT /api/contents/finding_donors.ipynb (::1) 93.14ms
+[D 12:26:17.327 NotebookApp] 200 GET /api/contents/finding_donors.ipynb?content=0&_=1511778024818 (::1) 8.88ms
+[I 12:26:17.342 NotebookApp] Saving file at /finding_donors.ipynb
+[D 12:26:17.343 NotebookApp] Saving /Users/ozanpekmezci/Documents/ml/machine-learning/projects/finding_donors/finding_donors.ipynb
+[D 12:26:17.443 NotebookApp] 200 PUT /api/contents/finding_donors.ipynb (::1) 105.60ms
+[D 12:36:17.936 NotebookApp] 200 GET /api/contents/finding_donors.ipynb?content=0&_=1511778024819 (::1) 1.27ms
+[I 12:36:17.949 NotebookApp] Saving file at /finding_donors.ipynb
+[D 12:36:17.949 NotebookApp] Saving /Users/ozanpekmezci/Documents/ml/machine-learning/projects/finding_donors/finding_donors.ipynb
+[D 12:36:18.043 NotebookApp] 200 PUT /api/contents/finding_donors.ipynb (::1) 97.67ms
+[D 12:42:17.927 NotebookApp] 200 GET /api/contents/finding_donors.ipynb?content=0&_=1511778024820 (::1) 4.41ms
+[I 12:42:17.938 NotebookApp] Saving file at /finding_donors.ipynb
+[D 12:42:17.938 NotebookApp] Saving /Users/ozanpekmezci/Documents/ml/machine-learning/projects/finding_donors/finding_donors.ipynb
+[D 12:42:18.018 NotebookApp] 200 PUT /api/contents/finding_donors.ipynb (::1) 82.27ms
+[D 13:06:17.902 NotebookApp] 200 GET /api/contents/finding_donors.ipynb?content=0&_=1511778024821 (::1) 4.71ms
+[I 13:06:17.916 NotebookApp] Saving file at /finding_donors.ipynb
+[D 13:06:17.917 NotebookApp] Saving /Users/ozanpekmezci/Documents/ml/machine-learning/projects/finding_donors/finding_donors.ipynb
+[D 13:06:18.013 NotebookApp] 200 PUT /api/contents/finding_donors.ipynb (::1) 100.76ms
+[D 13:08:17.888 NotebookApp] 200 GET /api/contents/finding_donors.ipynb?content=0&_=1511778024822 (::1) 1.50ms
+[I 13:08:17.899 NotebookApp] Saving file at /finding_donors.ipynb
+[D 13:08:17.899 NotebookApp] Saving /Users/ozanpekmezci/Documents/ml/machine-learning/projects/finding_donors/finding_donors.ipynb
+[D 13:08:17.984 NotebookApp] 200 PUT /api/contents/finding_donors.ipynb (::1) 87.38ms
+[D 13:10:17.891 NotebookApp] 200 GET /api/contents/finding_donors.ipynb?content=0&_=1511778024823 (::1) 9.49ms
+[I 13:10:17.910 NotebookApp] Saving file at /finding_donors.ipynb
+[D 13:10:17.911 NotebookApp] Saving /Users/ozanpekmezci/Documents/ml/machine-learning/projects/finding_donors/finding_donors.ipynb
+[D 13:10:18.040 NotebookApp] 200 PUT /api/contents/finding_donors.ipynb (::1) 135.93ms
+[D 13:36:04.974 NotebookApp] 200 GET /api/contents/finding_donors.ipynb?content=0&_=1511778024824 (::1) 4.35ms
+[I 13:36:04.988 NotebookApp] Saving file at /finding_donors.ipynb
+[D 13:36:04.989 NotebookApp] Saving /Users/ozanpekmezci/Documents/ml/machine-learning/projects/finding_donors/finding_donors.ipynb
+[D 13:36:05.091 NotebookApp] 200 PUT /api/contents/finding_donors.ipynb (::1) 108.04ms
+[D 13:38:04.324 NotebookApp] 200 GET /api/contents/finding_donors.ipynb?content=0&_=1511778024825 (::1) 1.24ms
+[I 13:38:04.334 NotebookApp] Saving file at /finding_donors.ipynb
+[D 13:38:04.335 NotebookApp] Saving /Users/ozanpekmezci/Documents/ml/machine-learning/projects/finding_donors/finding_donors.ipynb
+[D 13:38:04.413 NotebookApp] 200 PUT /api/contents/finding_donors.ipynb (::1) 81.61ms
+[D 13:40:04.963 NotebookApp] 200 GET /api/contents/finding_donors.ipynb?content=0&_=1511778024826 (::1) 1.38ms
+[I 13:40:04.976 NotebookApp] Saving file at /finding_donors.ipynb
+[D 13:40:04.976 NotebookApp] Saving /Users/ozanpekmezci/Documents/ml/machine-learning/projects/finding_donors/finding_donors.ipynb
+[D 13:40:05.068 NotebookApp] 200 PUT /api/contents/finding_donors.ipynb (::1) 94.97ms
+[D 14:32:45.626 NotebookApp] 200 GET /api/contents/finding_donors.ipynb?content=0&_=1511778024827 (::1) 6.09ms
+[I 14:32:45.644 NotebookApp] Saving file at /finding_donors.ipynb
+[D 14:32:45.645 NotebookApp] Saving /Users/ozanpekmezci/Documents/ml/machine-learning/projects/finding_donors/finding_donors.ipynb
+[D 14:32:45.737 NotebookApp] 200 PUT /api/contents/finding_donors.ipynb (::1) 96.69ms
+[D 14:32:45.759 NotebookApp] 201 POST /api/contents/finding_donors.ipynb/checkpoints (::1) 11.91ms
+[D 17:13:10.619 NotebookApp] 200 GET /api/contents/finding_donors.ipynb?content=0&_=1511778024828 (::1) 20.75ms
+[I 17:13:10.637 NotebookApp] Saving file at /finding_donors.ipynb
+[D 17:13:10.637 NotebookApp] Saving /Users/ozanpekmezci/Documents/ml/machine-learning/projects/finding_donors/finding_donors.ipynb
+[D 17:13:10.739 NotebookApp] 200 PUT /api/contents/finding_donors.ipynb (::1) 111.34ms
+[D 17:17:09.937 NotebookApp] 200 GET /api/contents/finding_donors.ipynb?content=0&_=1511778024829 (::1) 4.89ms
+[I 17:17:09.956 NotebookApp] Saving file at /finding_donors.ipynb
+[D 17:17:09.956 NotebookApp] Saving /Users/ozanpekmezci/Documents/ml/machine-learning/projects/finding_donors/finding_donors.ipynb
+[D 17:17:10.051 NotebookApp] 200 PUT /api/contents/finding_donors.ipynb (::1) 102.44ms
+[D 17:19:09.931 NotebookApp] 200 GET /api/contents/finding_donors.ipynb?content=0&_=1511778024830 (::1) 3.92ms
+[I 17:19:09.944 NotebookApp] Saving file at /finding_donors.ipynb
+[D 17:19:09.944 NotebookApp] Saving /Users/ozanpekmezci/Documents/ml/machine-learning/projects/finding_donors/finding_donors.ipynb
+[D 17:19:10.031 NotebookApp] 200 PUT /api/contents/finding_donors.ipynb (::1) 90.53ms
+[D 17:21:10.565 NotebookApp] 200 GET /api/contents/finding_donors.ipynb?content=0&_=1511778024831 (::1) 4.29ms
+[I 17:21:10.575 NotebookApp] Saving file at /finding_donors.ipynb
+[D 17:21:10.575 NotebookApp] Saving /Users/ozanpekmezci/Documents/ml/machine-learning/projects/finding_donors/finding_donors.ipynb
+[D 17:21:10.668 NotebookApp] 200 PUT /api/contents/finding_donors.ipynb (::1) 95.80ms
+[D 17:28:44.803 NotebookApp] 200 GET /api/contents/finding_donors.ipynb?content=0&_=1511778024832 (::1) 8.35ms
+[I 17:28:44.815 NotebookApp] Saving file at /finding_donors.ipynb
+[D 17:28:44.816 NotebookApp] Saving /Users/ozanpekmezci/Documents/ml/machine-learning/projects/finding_donors/finding_donors.ipynb
+[D 17:28:44.914 NotebookApp] 200 PUT /api/contents/finding_donors.ipynb (::1) 102.16ms
+[D 17:30:44.790 NotebookApp] 200 GET /api/contents/finding_donors.ipynb?content=0&_=1511778024833 (::1) 5.39ms
+[I 17:30:44.807 NotebookApp] Saving file at /finding_donors.ipynb
+[D 17:30:44.807 NotebookApp] Saving /Users/ozanpekmezci/Documents/ml/machine-learning/projects/finding_donors/finding_donors.ipynb
+[D 17:30:44.905 NotebookApp] 200 PUT /api/contents/finding_donors.ipynb (::1) 105.65ms
+[D 17:32:44.784 NotebookApp] 200 GET /api/contents/finding_donors.ipynb?content=0&_=1511778024834 (::1) 4.41ms
+[I 17:32:44.804 NotebookApp] Saving file at /finding_donors.ipynb
+[D 17:32:44.805 NotebookApp] Saving /Users/ozanpekmezci/Documents/ml/machine-learning/projects/finding_donors/finding_donors.ipynb
+[D 17:32:44.896 NotebookApp] 200 PUT /api/contents/finding_donors.ipynb (::1) 95.89ms
+[D 17:34:44.779 NotebookApp] 200 GET /api/contents/finding_donors.ipynb?content=0&_=1511778024835 (::1) 4.10ms
+[I 17:34:44.793 NotebookApp] Saving file at /finding_donors.ipynb
+[D 17:34:44.793 NotebookApp] Saving /Users/ozanpekmezci/Documents/ml/machine-learning/projects/finding_donors/finding_donors.ipynb
+[D 17:34:44.888 NotebookApp] 200 PUT /api/contents/finding_donors.ipynb (::1) 99.49ms
+[D 17:36:44.774 NotebookApp] 200 GET /api/contents/finding_donors.ipynb?content=0&_=1511778024836 (::1) 2.15ms
+[I 17:36:44.783 NotebookApp] Saving file at /finding_donors.ipynb
+[D 17:36:44.784 NotebookApp] Saving /Users/ozanpekmezci/Documents/ml/machine-learning/projects/finding_donors/finding_donors.ipynb
+[D 17:36:44.869 NotebookApp] 200 PUT /api/contents/finding_donors.ipynb (::1) 87.59ms
+[D 17:38:44.779 NotebookApp] 200 GET /api/contents/finding_donors.ipynb?content=0&_=1511778024837 (::1) 5.59ms
+[I 17:38:44.791 NotebookApp] Saving file at /finding_donors.ipynb
+[D 17:38:44.792 NotebookApp] Saving /Users/ozanpekmezci/Documents/ml/machine-learning/projects/finding_donors/finding_donors.ipynb
+[D 17:38:44.900 NotebookApp] 200 PUT /api/contents/finding_donors.ipynb (::1) 112.47ms
+[D 17:40:44.764 NotebookApp] 200 GET /api/contents/finding_donors.ipynb?content=0&_=1511778024838 (::1) 1.32ms
+[I 17:40:44.775 NotebookApp] Saving file at /finding_donors.ipynb
+[D 17:40:44.775 NotebookApp] Saving /Users/ozanpekmezci/Documents/ml/machine-learning/projects/finding_donors/finding_donors.ipynb
+[D 17:40:44.873 NotebookApp] 200 PUT /api/contents/finding_donors.ipynb (::1) 99.99ms
+[D 17:42:10.160 NotebookApp] 200 GET /api/contents/finding_donors.ipynb?content=0&_=1511778024839 (::1) 1.25ms
+[I 17:42:10.216 NotebookApp] Saving file at /finding_donors.ipynb
+[D 17:42:10.217 NotebookApp] Saving /Users/ozanpekmezci/Documents/ml/machine-learning/projects/finding_donors/finding_donors.ipynb
+[D 17:42:10.307 NotebookApp] 200 PUT /api/contents/finding_donors.ipynb (::1) 96.08ms
+[D 17:42:10.748 NotebookApp] Applying preprocessor: TagRemovePreprocessor
+[D 17:42:10.779 NotebookApp] Applying preprocessor: RegexRemovePreprocessor
+[D 17:42:10.868 NotebookApp] Applying preprocessor: coalesce_streams
+[D 17:42:10.924 NotebookApp] Applying preprocessor: CSSHTMLHeaderPreprocessor
+[D 17:42:10.981 NotebookApp] Applying preprocessor: HighlightMagicsPreprocessor
+[D 17:42:11.038 NotebookApp] Attempting to load template full.tpl
+[D 17:42:11.038 NotebookApp]     template_path: .
+[D 17:42:11.261 NotebookApp] 200 GET /nbconvert/html/finding_donors.ipynb?download=true (::1) 940.14ms
+[I 17:46:27.122 NotebookApp] interrupted
+Serving notebooks from local directory: /Users/ozanpekmezci/Documents/ml/machine-learning/projects/finding_donors
+1 active kernels 
+The Jupyter Notebook is running at: http://localhost:8888/?token=1b18c3cd4aeee66ec4e5695319d577aaf7b15cae5568a916
+Shutdown this notebook server (y/[n])? [I 17:46:29.937 NotebookApp] interrupted
+resuming operation...
+Serving notebooks from local directory: /Users/ozanpekmezci/Documents/ml/machine-learning/projects/finding_donors
+1 active kernels 
+The Jupyter Notebook is running at: http://localhost:8888/?token=1b18c3cd4aeee66ec4e5695319d577aaf7b15cae5568a916
+Shutdown this notebook server (y/[n])? [I 17:46:32.921 NotebookApp] interrupted
+resuming operation...
+Serving notebooks from local directory: /Users/ozanpekmezci/Documents/ml/machine-learning/projects/finding_donors
+1 active kernels 
+The Jupyter Notebook is running at: http://localhost:8888/?token=1b18c3cd4aeee66ec4e5695319d577aaf7b15cae5568a916
+Shutdown this notebook server (y/[n])? [C 17:46:33.097 NotebookApp] received signal 2, stopping
+[I 17:46:33.102 NotebookApp] Shutting down kernels
+[C 17:46:33.280 NotebookApp] received signal 2, stopping
+[C 17:46:33.488 NotebookApp] received signal 2, stopping
+[I 17:46:34.038 NotebookApp] Kernel shutdown: c519199d-ed2e-4eaa-8578-c16abe37becc
